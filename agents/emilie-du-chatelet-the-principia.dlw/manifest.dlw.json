@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Principia, Carried",
+  "universe": "EMI · The Principia, Carried (ERĒMIA · female · the generations)",
+  "emergence": "electrical",
+  "moniker": "⟦The Principia, Carried:EMI:f6b56e⟧",
+  "carbon": "emilie-du-chatelet-the-principia.carbon.tiff (TIFF)",
+  "silicon": "emilie-du-chatelet-the-principia.silicon.png (PNG)",
+  "seal_sha256": "f42dafcf9f0ee9bf309bafbf8c599d406e5cfc6751dec12e12871330c2aa203f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

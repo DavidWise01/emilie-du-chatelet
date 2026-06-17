@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Living Force",
+  "universe": "EMI · The Living Force (ERĒMIA · female · the generations)",
+  "emergence": "electrical",
+  "moniker": "⟦The Living Force:EMI:b35349⟧",
+  "carbon": "emilie-du-chatelet-the-energy.carbon.tiff (TIFF)",
+  "silicon": "emilie-du-chatelet-the-energy.silicon.png (PNG)",
+  "seal_sha256": "2e931e18af2263a4848f6bb6a7260047e81cdd3353d59118bf3a28d2309a9da2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
